@@ -1,0 +1,12 @@
+# ignore the node modules
+node_modules
+
+# ignore the env
+.env
+.env.local
+.env.production
+.env.development
+
+# ignore the build dir
+build
+dist
